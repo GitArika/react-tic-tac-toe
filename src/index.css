@@ -4,7 +4,9 @@ body {
   }
   
   ol, ul {
-    padding-left: 30px;
+    margin-left: -45px;
+    list-style: none;
+
   }
   
   .board-row:after {
@@ -21,15 +23,15 @@ body {
     background: #fff;
     border: 1px solid #999;
     float: left;
-    font-size: 24px;
+    font-size: 96px;
     font-weight: bold;
-    line-height: 34px;
-    height: 34px;
+    line-height: 136px;
+    height: 136px;
     margin-right: -1px;
     margin-top: -1px;
     padding: 0;
     text-align: center;
-    width: 34px;
+    width: 136px;
   }
   
   .square:focus {
@@ -49,3 +51,50 @@ body {
     margin-left: 20px;
   }
   
+  .bold {
+    font-weight: bold;
+    color: #20bf6b !important;
+    border: 2px solid #20bf6b !important;
+  }
+
+.history-button {
+    display: inline-block;
+    border: none;
+    margin: 2px;
+    text-decoration: none;
+    background: #fff;
+    color: #999;
+    text-transform: uppercase;
+    border: 2px solid #999;
+    border-radius: 6px;
+    font-size: 1rem;
+    line-height: 1;
+    cursor: pointer;
+    text-align: center;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.classic-button {
+  flex: 1;
+  border: none;
+  margin: 2px;
+  margin-left: -3px;
+  text-decoration: none;
+  background: #fff;
+  color: #999;
+  text-transform: uppercase;
+  border: 2px solid #999;
+  border-radius: 6px;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  text-align: center;
+  -webkit-appearance: none;
+  -moz-appearance: none; 
+}
+
+.game-opt {
+  display: flex;
+  flex-direction: column;
+}
