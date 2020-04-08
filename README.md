@@ -10,10 +10,6 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GitArika/react-tic-tac-toe?color=%2304D361">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/GitArika/react-tic-tac-toe/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/GitArika/react-tic-tac-toe?style=social">
-  </a>
 </p>
 
 ## About
