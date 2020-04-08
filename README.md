@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="LinkApi" src="https://www.stickpng.com/assets/images/584830f5cef1014c0b5e4aa1.png" width="200px" />
+    <img alt="React-Logo" src="https://www.stickpng.com/assets/images/584830f5cef1014c0b5e4aa1.png" width="200px" />
 </h1>
 
 <h3 align="center">
