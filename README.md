@@ -1,12 +1,10 @@
 <h1 align="center">
-    <img alt="LinkApi" src="https://www.stickpng.com/assets/images/584830f5cef1014c0b5e4aa1.png" width="200px" />
+    <img alt="React-Logo" src="https://create-react-app.dev/img/logo-og.png" width="200px" />
 </h1>
 
 <h3 align="center">
   React Introduction
 </h3>
-
-<blockquote align="center">See on [React](https://reactjs.org/tutorial/tutorial.html) docs webpage</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GitArika/react-tic-tac-toe?color=%2304D361">
