@@ -14,8 +14,6 @@
 
 ## About
 
-![tic-tac-toe](https://i.imgur.com/ZU0GdDj.gif)
-
 That's a simple app implemented following [this](https://reactjs.org/tutorial/tutorial.html) tutorial.
 
 Also i've implemented the advanced features suggested by react org. 
